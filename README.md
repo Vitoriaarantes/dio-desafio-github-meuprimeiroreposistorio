@@ -1,9 +1,8 @@
 # dio-desafio-github-meuprimeirorepositorio
 Desafio de Projeto sobre Git/GitHub
 
-Como Fazer e Vender Trufas Gourmet
+COMO FAZER E VENDER TRUFAS GOURMET
 
-**Links Úteis
 
 [Como Preparar Trufas Gourmet](https://escoladedoce.com/receitas-de-recheios-de-trufas-para-vender/) 
 
